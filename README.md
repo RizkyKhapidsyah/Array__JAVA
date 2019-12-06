@@ -4,7 +4,7 @@ Bahan Ajar Fundamental Java: Mengenal Dasar-Dasar Array beserta Penggunaannya  d
 <img src="https://github.com/RizkyKhapidsyah/Array__JAVA/blob/master/results/002.PNG"><br>
 <img src="https://github.com/RizkyKhapidsyah/Array__JAVA/blob/master/results/003.PNG"><br><br>
 Lihat Source Code:<br>
-- <a href="https://github.com/RizkyKhapidsyah/Array__JAVA/blob/master/src/com/rizkykhapidsyah/javafundamental/array/InisiasiArray.java">Inisiasi Array</a><br>
-- <a href="https://github.com/RizkyKhapidsyah/Array__JAVA/blob/master/src/com/rizkykhapidsyah/javafundamental/array/LoopingArray.java">Looping Array</a><br>
-- <a href="https://github.com/RizkyKhapidsyah/Array__JAVA/blob/master/src/com/rizkykhapidsyah/javafundamental/array/MultiDimensionalArray.java">Multi Dimensi Array</a><br>
-- <a href="https://github.com/RizkyKhapidsyah/Array__JAVA/blob/master/src/com/rizkykhapidsyah/javafundamental/array/IndexOutOfBounds.java">Error: IndexOutOfBounds</a>
+- <a href="https://autoratio.com/SkBNfP">Inisiasi Array</a><br>
+- <a href="https://autoratio.com/rViWaXUF">Looping Array</a><br>
+- <a href="https://autoratio.com/MSbvV">Multi Dimensi Array</a><br>
+- <a href="https://autoratio.com/Inl2U">Error: IndexOutOfBounds</a>
